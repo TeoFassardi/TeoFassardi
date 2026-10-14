@@ -21,7 +21,7 @@ React · Next.js · Tailwind CSS · TypeScript · HTML · CSS · JavaScript
 Node.js · Prisma ORM · Sanity CMS · REST APIs · C# (.NET)
 
 **Databases**  
-Relational databases (SQL) · NoSQL (Sanity, MongoDB)
+Relational databases (SQL) · NoSQL (MongoDB)
 
 **Tools & Integrations**  
 Git · GitHub · API integrations (Stripe, Clerk, Resend)
@@ -34,6 +34,7 @@ Spanish · English — B2
 
 - [Portfolio](https://portfolio-nine-swart-86.vercel.app/)
 - Email: teofassardi123@gmail.com
+- [LinkedIn](https://www.linkedin.com/in/teofassardi/)
 
 </details>
 
@@ -57,7 +58,7 @@ React · Next.js · Tailwind CSS · TypeScript · HTML · CSS · JavaScript
 Node.js · Prisma ORM · Sanity CMS · APIs REST · C# (.NET)
 
 **Bases de datos**  
-Relacionales (SQL) · NoSQL (Sanity, MongoDB)
+Relacionales (SQL) · NoSQL (MongoDB)
 
 **Herramientas e integraciones**  
 Git · GitHub · Integración de APIs (Stripe, Clerk, Resend)
@@ -70,5 +71,6 @@ Español · Inglés — B2
 
 - [Portfolio](https://portfolio-nine-swart-86.vercel.app/)
 - Email: teofassardi123@gmail.com
+- [LinkedIn](https://www.linkedin.com/in/teofassardi/)
 
 </details>
