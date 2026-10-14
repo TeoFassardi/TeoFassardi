@@ -1,16 +1,74 @@
-## Hi there 👋
+# Teo Fassardi
+### Junior Full Stack Developer · Rosario, Argentina
 
-<!--
-**TeoFassardi/TeoFassardi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Choose your language / Elegí tu idioma
 
-Here are some ideas to get you started:
+<details>
+<summary><strong>English · About me</strong></summary>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Hi, I'm Teo
+
+I develop web applications across frontend and backend, from user interfaces to business logic, APIs and databases.
+
+I'm studying Systems Engineering at Universidad Abierta Interamericana. I'm looking for opportunities to contribute to a development team and grow as a Full Stack Developer.
+
+### Technical Skills
+
+**Frontend**  
+React · Next.js · Tailwind CSS · TypeScript · HTML · CSS · JavaScript
+
+**Backend & Data**  
+Node.js · Prisma ORM · Sanity CMS · REST APIs · C# (.NET)
+
+**Databases**  
+Relational databases (SQL) · NoSQL (Sanity, MongoDB)
+
+**Tools & Integrations**  
+Git · GitHub · API integrations (Stripe, Clerk, Resend)
+
+### Languages
+
+Spanish · English — B2
+
+### Portfolio & Contact
+
+- [Portfolio](https://portfolio-nine-swart-86.vercel.app/)
+- Email: teofassardi123@gmail.com
+
+</details>
+
+<details>
+<summary><strong>Español · Sobre mí</strong></summary>
+
+### Hola, soy Teo
+
+Soy desarrollador Full Stack junior y estudiante de Ingeniería en Sistemas Informáticos en la Universidad Abierta Interamericana.
+
+Desarrollo aplicaciones web tanto en frontend como en backend: interfaces de usuario, lógica de negocio, APIs y bases de datos.
+
+Busco oportunidades para aportar a un equipo de desarrollo y seguir creciendo como desarrollador Full Stack.
+
+### Tecnologías
+
+**Frontend**  
+React · Next.js · Tailwind CSS · TypeScript · HTML · CSS · JavaScript
+
+**Backend y datos**  
+Node.js · Prisma ORM · Sanity CMS · APIs REST · C# (.NET)
+
+**Bases de datos**  
+Relacionales (SQL) · NoSQL (Sanity, MongoDB)
+
+**Herramientas e integraciones**  
+Git · GitHub · Integración de APIs (Stripe, Clerk, Resend)
+
+### Idiomas
+
+Español · Inglés — B2
+
+### Portfolio y contacto
+
+- [Portfolio](https://portfolio-nine-swart-86.vercel.app/)
+- Email: teofassardi123@gmail.com
+
+</details>
