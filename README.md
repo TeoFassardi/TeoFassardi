@@ -19,7 +19,7 @@
   </a>
   &nbsp;&nbsp;
   <a href="https://portfolio-nine-swart-86.vercel.app/">
-    <img src="https://api.iconify.design/lucide:globe.svg?color=%232563eb" alt="Portfolio" title="Portfolio" width="35" height="35">
+    <img src="https://img.shields.io/badge/Portfolio-181717?style=for-the-badge" alt="Teo Fassardi portfolio">
   </a>
 </p>
 
